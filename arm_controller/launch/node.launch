@@ -1,0 +1,6 @@
+
+<launch>
+
+	<node name="node" pkg="arm_controller" type="arm_controller_node" output="screen"/>
+
+</launch>

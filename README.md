@@ -22,7 +22,7 @@
   </li>
   <li><code>arm_gazebo</code>
     <ul>
-      <li><code>arm_gazebo.launch</code>: launches <code>arm_world.launch</code> and <code>arm_controller.launch</code>
+      <li><code>arm_gazebo.launch</code>: launches <code>arm_world.launch</code> and <code>arm_controll.launch</code>
       <li><code>arm_world.launch</code>: spawns the Gazebo world
     </ul>
   </li>
